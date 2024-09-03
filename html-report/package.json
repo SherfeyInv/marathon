@@ -30,7 +30,7 @@
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-loading": "^2.0.3",
-    "react-player": "^2.11.0",
+    "react-player": "^2.15.1",
     "webpack": "^5.74.0"
   },
   "devDependencies": {
