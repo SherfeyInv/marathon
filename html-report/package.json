@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "classnames": "^2.3.2",
-    "copy-webpack-plugin": "^11.0.0",
+    "copy-webpack-plugin": "^13.0.0",
     "cssnano": "^5.1.13",
     "elasticlunr": "^0.9.5",
     "iframe-resizer-react": "^1.1.0",
