@@ -17,7 +17,7 @@
     "cssnano": "^5.1.13",
     "elasticlunr": "^0.9.5",
     "iframe-resizer-react": "^1.1.0",
-    "postcss-cli": "^10.0.0",
+    "postcss-cli": "^11.0.1",
     "postcss-import": "^15.0.0",
     "postcss-inline-svg": "^5.0.0",
     "postcss-mixins": "^9.0.4",
